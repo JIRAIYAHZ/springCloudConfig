@@ -1,0 +1,7 @@
+spring:
+  datasource:
+    url: jdbc:mysql://127.0.0.1:3306/springcloudorder
+    username: root
+    password: zjw1234567@
+  jpa:
+    show-sql: true
