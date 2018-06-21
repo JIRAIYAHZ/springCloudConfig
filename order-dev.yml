@@ -5,4 +5,4 @@ spring:
     password: zjw1234567@
   jpa:
     show-sql: true
-env: dev4
+env: dev1
